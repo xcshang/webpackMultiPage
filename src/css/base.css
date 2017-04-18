@@ -1,0 +1,9 @@
+body{
+	background: #ddd
+}
+
+.d1{
+	width: 100px;
+	height: 100px;
+	background: url(~img/2.jpg);
+}
